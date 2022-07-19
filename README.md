@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-My name is Dylan Brine. I am a full stack developer with experience in the React/Typescript/AWS stack. I am set to graduate from Memorial University of Newfoundland and Labrador in May 2022, and am currently seeking full-time employment to begin after graduation. 
-
-### What am I currently working on?
-Right now I am working on my workout-buddy web application. The app is used to track and analyze workout progress for resistance weight training. The application will be utilizing React in the front-end, Node.js in the backend, while being powered by AWS. 
+My name is Dylan Brine. I am a full stack developer with experience in the React/Typescript/AWS stack. I graduated from Memorial University in May 2022 and currently work at Milk Moovement 🐄 as a Full Stack II Developer! 
 
 <!--
 **debrine/debrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
